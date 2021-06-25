@@ -1,0 +1,24 @@
+To give a brief overview, this post is dedicated to 5 sections as follow:
+Context of Data
+Data Cleaning (a.k.a data preprocessing)
+Exploratory Data Analysis
+Results
+Conclusion
+
+
+
+
+
+Context of Data
+
+(Source)
+In this post, we’ll investigate the E-Commerce dataset obtained from Kaggle. Before dealing with the dataset, let’s try to understand what it is about to give us a better understanding of its context.
+Company — Russian-based and registered non-store online retail
+Products for selling — large home appliances and electronics items
+Customers — Most are from local or international
+Transactions Period — April 2020 to November 2020 
+
+Data Cleaning
+We all know data in real world is messy (including Kaggle!) and thus, let’s spend some time to clean the data .
+
+As intuitive as the variables (column names) may sound, let’s take a step further by understanding what each variable means
